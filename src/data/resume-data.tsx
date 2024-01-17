@@ -119,7 +119,7 @@ export const RESUME_DATA = {
       start: "2020",
       end: "current",
       description:
-        "working on all sorts of projects related to machine learning or computer vision",
+        "working on all sorts of projects related to machine learning and computer vision",
     },
     // {
     //   company: "Upwork",
