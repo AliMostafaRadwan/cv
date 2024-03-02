@@ -121,17 +121,17 @@ export const RESUME_DATA = {
       description:
         "working on all sorts of projects related to machine learning and computer vision",
     },
-    // {
-    //   company: "Upwork",
-    //   link: "https://clevertech.biz",
-    //   badges: ["Remote"],
-    //   title: "Lead Android Developer → Full Stack Developer",
-    //   logo: ClevertechLogo,
-    //   start: "2015",
-    //   end: "2021",
-    //   description:
-    //     "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
-    // },
+     {
+       company: "SMSM",
+       link: "https://smsm.ai",
+       badges: ["Remote"],
+       title: "R&D intern",
+       logo: ClevertechLogo,
+       start: "2024",
+       end: "current",
+       description:
+         "Research and development",
+    },
     // {
     //   company: "Jojo Mobile",
     //   link: "https://bsgroup.eu/",
