@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Innovative software engineer specializing in machine learning and computer vision. Demonstrated ability to quickly master new technologies and apply them to complex projects. Seeking opportunities to develop cutting-edge AI solutions and contribute to advancing the field of artificial intelligence.",
   summary:
     "With a passion for machine learning and computer vision, I am a highly motivated programmer with a track record of mastering new software packages and hardware technologies quickly. My exceptional background in these fields has equipped me with the skills and knowledge to excel in challenging projects.",
-  avatarUrl: "https://iili.io/2BTVSIf.md.jpg",
+  avatarUrl: "https://iili.io/2BTPeYg.md.jpg",
   personalWebsiteUrl: "https://aliradwan.netlify.app",
   contact: {
     email: "alimosamin@gmail.com",
